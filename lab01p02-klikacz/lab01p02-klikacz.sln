@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab01p02-klikacz", "lab01p02-klikacz\lab01p02-klikacz.csproj", "{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2078AB6-3B9B-4E3E-AE22-C5C26856A162}
+	EndGlobalSection
+EndGlobal
