@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B72CF4C4-FBD5-43B4-A84C-ABA3D3D2FB47}</ProjectGuid>
+    <ProjectGuid>{A394936F-1561-49A2-A87F-F1971A360862}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>lab01p02_klikacz</RootNamespace>
     <AssemblyName>lab01p02-klikacz</AssemblyName>

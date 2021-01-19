@@ -18,6 +18,7 @@ namespace lab01p02_klikacz
         {
             InitializeComponent();
             label1.Text = ile.ToString();
+            pokoloruj();
         }
 
         private void button1_Click(object sender, EventArgs e)
